@@ -1,0 +1,31 @@
+{
+  "name": "rxjs-learn",
+  "version": "1.0.0",
+  "description": "Larning RXJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshghalame/rxjs-learn.git"
+  },
+  "keywords": [],
+  "author": "Ganesh Ghalame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshghalame/rxjs-learn/issues"
+  },
+  "homepage": "https://github.com/ganeshghalame/rxjs-learn#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3",
+    "ts-loader": "^5.3.1",
+    "typescript": "^3.2.2",
+    "webpack": "^4.27.1",
+    "webpack-server": "^0.1.2"
+  }
+}
